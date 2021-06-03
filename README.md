@@ -8,7 +8,7 @@
 <li>Princípios SOLID</li>
 <li>Uso de UPLOAD na aplicação</li>
 <li>Documentação da API com Swagger</li>
-
+</br>
 <p>(Em construção)</p>
 
 
