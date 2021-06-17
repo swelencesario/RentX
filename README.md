@@ -8,7 +8,11 @@
 <li>Princípios SOLID</li>
 <li>UPLOAD de arquivos na aplicação</li>
 <li>Documentação da API com Swagger</li>
+<li>Docker</li>
+<li>Postgres</li>
+<li>TypeORM</li>
 </br>
+<p>(Em construção)</p>
 
 
 
