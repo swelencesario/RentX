@@ -1,4 +1,4 @@
-<h2> Este repositório destina-se ao conteúdo do Capítulo II Ignite NodeJS - Rocketseat</h2>
+<h2> Este repositório destina-se ao conteúdo do Ignite NodeJS - Rocketseat</h2>
 
 <p>Trata-se de uma API de aluguel de carros, chamada Rental X</p>
 
