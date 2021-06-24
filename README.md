@@ -11,6 +11,8 @@
 <li>Docker</li>
 <li>Postgres</li>
 <li>TypeORM</li>
+<li>Migrations</li>
+<li>Biblioteca Tsyringe para Injeção de Dependência</li>
 </br>
 <p>(Em construção)</p>
 
