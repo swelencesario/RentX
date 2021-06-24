@@ -2,7 +2,7 @@
 
 <p>Trata-se de uma API de aluguel de carros, chamada Rent X</p>
 
-<h2>Conceitos aplicados:</h2>
+<h2>Conceitos aplicados e tecnologias utilizadas:</h2>
 
 <li>Typescript</li>
 <li>Princípios SOLID</li>
