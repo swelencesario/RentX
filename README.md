@@ -14,7 +14,7 @@
 <li>Migrations</li>
 <li>Biblioteca Tsyringe para Injeção de Dependência</li>
 <li>Criptografia de senha com BCrypt</li>
-<li>Autenticação dom JWT (Json Web Token)</li>
+<li>Autenticação com JWT (Json Web Token)</li>
 </br>
 <p>(Em construção)</p>
 
