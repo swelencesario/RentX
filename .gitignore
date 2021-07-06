@@ -4,3 +4,6 @@ tmp/*
 dist
 ormconfig.json
 yarn.lock
+utils
+@types
+config
